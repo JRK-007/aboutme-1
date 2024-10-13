@@ -35,10 +35,7 @@ If you're interested in projects related to solving real-world problems in ECE a
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-krishna-j/) &nbsp;&nbsp; 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Rkj007-hub) &nbsp;&nbsp; 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/RAHUL_KRISHNA_J/) &nbsp;&nbsp; 
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2311B48A.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/tomyblog007) &nbsp;&nbsp; 
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23CCAA00.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/rahulkrishnaj) &nbsp;&nbsp; 
-[![Take U Forward](https://img.shields.io/badge/TakeUForward-%23FF5722.svg?logo=book&logoColor=white)](https://takeuforward.org/profile/JRK_007) &nbsp;&nbsp; 
+[![Instagram](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)]([(https://www.instagram.com/rahul_krishna_j_/)) &nbsp;&nbsp; 
 [![Blog](https://img.shields.io/badge/Blog-%23FF5722.svg?logo=blogger&logoColor=white)](https://rkandblogs.blogspot.com) &nbsp;&nbsp; 
 [![Mail Me](https://img.shields.io/badge/Mail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:tomyblog007@gmail.com)  
 
